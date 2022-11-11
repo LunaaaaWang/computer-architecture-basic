@@ -1,1 +1,3 @@
 # computer-architecture-basic
+This is a review for computer architecture basic concept.
+Include ROM, RAM, Cache, MMU, Tlb, Interupt, Polling, Pipelining, DMA ...
